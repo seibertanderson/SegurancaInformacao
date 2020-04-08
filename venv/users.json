@@ -1,0 +1,22 @@
+{
+  "ANDERSON SEIBERT": {
+    "password": "c00c2387c2cd647eeb311b213b23e07de4fa2186",
+    "salt": "30123412423210314132204102333042",
+    "type": "sha1"
+  },
+  "JOAO BATISTA DE OLIVEIRA": {
+    "password": "d4c5cd448828a5181416711e6259d251fee56eff",
+    "salt": "12301233233341132422022212023433",
+    "type": "sha1"
+  },
+  "MARIA SCHMIDT": {
+    "password": "5c287ad9789095471a10a8055ebd6063f6a0260d",
+    "salt": "23231334042421114301021312313233",
+    "type": "sha1"
+  },
+  "RODRIGO MAGALHAES": {
+    "password": "15f67968f5c3328139725649a84fdf0aa1bd32e9",
+    "salt": "21311120414042011013404120333230",
+    "type": "sha1"
+  }
+}
